@@ -1,9 +1,10 @@
 // import React from 'react';
+import HomePage from "../../components/cards/home.component";
 
 const Home = () => {
   return (
     <div className="home-container">
-      Home
+      <HomePage />
     </div>
   );
 };
