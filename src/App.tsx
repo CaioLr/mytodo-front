@@ -1,8 +1,8 @@
 // import React from 'react';
 import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom';
-import Home from './pages/home/page';
-import Login from './pages/login/page';
-import Register from './pages/register/page';
+import Home from './pages/home';
+import Login from './pages/login';
+import Register from './pages/register';
 
 
 

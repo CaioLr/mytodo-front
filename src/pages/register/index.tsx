@@ -1,9 +1,11 @@
-// import React from 'react';
+
+import RegisterPage from "../../components/cards/register.component";
+
 
 const Register = () => {
   return (
     <div className="register-container">
-      Cadastro
+      <RegisterPage />
     </div>
   );
 };
